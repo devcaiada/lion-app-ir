@@ -6,7 +6,7 @@ Este projeto, desenvolvido como parte de um desafio da DIO, consiste em uma ferr
 
 A solução funciona como um centralizador de dados, permitindo ao usuário controlar suas movimentações financeiras e de investimentos de maneira prática e validada. A planilha possui uma interface amigável, com menus de navegação, validações automáticas e funcionalidades extras para otimizar o processo de preparação para a declaração anual.
 
-![app_interface]()
+![app_interface](https://github.com/devcaiada/lion-app-ir/blob/main/assets/app_interface.png?raw=true)
 
 ## 🎯 Objetivos
 
